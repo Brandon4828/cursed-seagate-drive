@@ -31,7 +31,7 @@ See [`timeline.md`](./timeline.md) for a running account of what this drive has 
 - **Firmware:** `0001` (I have no clue why this might be, I would expect crystaldiskinfo to just show "----" if invalid.)
 - **Rotation Rate:** 5425 RPM 
 - **Power-On Hours:** 16807 (as of May 12, 2025)
-- **Reallocated Sectors:** 63,584 (so far)
+- **Reallocated Sectors:** 63,600 (so far)
 - **Uncorrectable / Pending Sectors:** 0
 
 ---
