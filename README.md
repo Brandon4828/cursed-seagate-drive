@@ -49,4 +49,4 @@ Made by [Brandon MacDonald]
 Email:
 brandonmacdonald4828@gmail.com
 
-(Partially helped by chatgpt, it was the one who pointed out how anomalous it was (and quite obviously helped with the formatting of this description). I'm still unsure of the extent of how unusual this drive is, feel free to contact me if you know about this stuff!)
+Partially helped by chatgpt, it was the one who pointed out how anomalous it was (and quite obviously helped with the formatting of this description). I'm still unsure of the extent of how unusual this drive is, feel free to contact me if you know about this stuff!
