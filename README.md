@@ -5,7 +5,7 @@ This is the repository documenting a consumer seagate hard drive that seemingly 
 It has:
 - Over **63,000 reallocated sectors**
 - **Zero pending sectors**
-- Firmware version **0001** (possibly a dev or pre-release build???)
+- Firmware version **0001**
 - Died **three times**, disappeared from BIOS, and in the first instance of death, it took eight months for it to resurrect.
 - Survived running AI models, large transfers, and a chkdsk scan
 
