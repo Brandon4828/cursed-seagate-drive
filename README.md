@@ -9,7 +9,7 @@ It has:
 - Died **three times**, disappeared from BIOS, and in the first instance of death, it took eight months for it to resurrect.
 - Survived running AI models, large transfers, and a chkdsk scan
 
-I have no clue why this drive is still running (kind of reliably) when drives fail with *far* fewer reallocated sectors. 
+I have no clue why this drive is still running (kind of reliably) when drives usually fail with *far* fewer reallocated sectors. 
 
 ---
 
