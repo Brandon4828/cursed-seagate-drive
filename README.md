@@ -19,12 +19,6 @@ You can find images and raw SMART data in the [`logs/`](./logs) and [`images/`](
 
 ---
 
-## 📅 Timeline of Events
-
-See [`timeline.md`](./timeline.md) for a running account of what this drive has been through — death, resurrection, and all.
-
----
-
 ## 🧪 Specs
 
 - **Model:** Seagate ST8000DM004-2CX188
